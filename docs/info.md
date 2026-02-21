@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It shows my initial when the input switches of 0,1,2,3,4,5 are turned on. It does this because I have 3 AND gates sat such that the corresponding segment will only turn on if both switches are on.
 
 ## How to test
 
